@@ -4,11 +4,24 @@
 
 <h2 align="left">My name is @naimul-parvas and I'm a web  devloper from bangladesh</h2>
 
+# About Me
+
+Hey there! 👋 I'm naimul-parvas, a passionate web-devloper based in bangladesh.
+## 🚀 Quick Facts
+
+- 💼 Currently working as a fivver and upwork marketplace
+- 💻 Proficient in Programming Languages and Frameworks.
+- 🌱 Always eager to learn and explore new things
+
 ###
 
 <h1 align="left">Tools and Language</h1>
 
 ###
+
+
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
