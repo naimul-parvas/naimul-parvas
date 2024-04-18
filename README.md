@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">My name is @naimul-parvas and I'm a web  devloper from bangladesh</h2>
+<h2 align="left">My name is naimul-parvas and I'm a web  devloper from bangladesh</h2>
 
 # About Me
 
